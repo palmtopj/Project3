@@ -1,0 +1,12 @@
+section {
+    display:flex;
+flex-direction: column;
+justify-content: space-around;
+    border:green 10px;
+    background-color:darkblue;
+}
+
+#Air {color: lightblue;
+border-color:green; 2px;}
+#Land {background-color: rgb(90, 62, 29);}
+#Water {background-color: Aqua;}
